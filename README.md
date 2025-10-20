@@ -1,10 +1,10 @@
-# Projeto de Fundamentos: Cadastro Básico em C++
+# Projeto de Fundamentos: Cadastro Básico em C 
 
 ## 🎯 Objetivo
 Este repositório contém um projeto de linha de comando (CLI) desenvolvido para aplicar os fundamentos de **Lógica de Programação** e **Estrutura de Dados** (Arrays, Structs e Funções) aprendidos nas disciplinas iniciais do curso de Análise e Desenvolvimento de Sistemas (ADS).
 
 ## 🛠️ Tecnologias
-- **Linguagem Principal:** C++
+- **Linguagem Principal:** C
 
 ## ✨ Funcionalidades
 - Criação e registro de novos cadastros.
